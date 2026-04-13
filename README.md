@@ -8,7 +8,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&multiline=false&random=false&width=550&height=50&lines=building+stuff+that+actually+works+%F0%9F%94%A7;systems+%7C+AI+%7C+automation+%7C+open+source;+linux+is+not+just+an+OS%2C+it%27s+a+lifestyle+%F0%9F%90%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&multiline=false&random=false&width=550&height=50&lines=building+stuff+that+actually+works+%F0%9F%94%A7;systems+%7C+AI+%7C+automation+%7C+open+source;l+linux+is+not+just+an+OS%2C+it%27s+a+lifestyle+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 </div>
 
