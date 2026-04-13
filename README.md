@@ -111,12 +111,11 @@ Developer me = {
 
 <!-- Stats + Langs side by side using HTML table for alignment -->
 <a href="https://github.com/LangerSword">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LangerSword&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=cdd6f4&ring_color=c084fc&count_private=true&include_all_commits=true" />
+  <img height="180px" src="https://streak-stats.demolab.com/?user=LangerSword&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakNum=cdd6f4&currStreakLabel=c084fc&sideNums=cdd6f4&sideLabels=cdd6f4&dates=cdd6f4" alt="GitHub Streak Stats" />
 </a>
 <a href="https://github.com/LangerSword">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LangerSword&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=cdd6f4&langs_count=8" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LangerSword&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=cdd6f4&langs_count=8" alt="Top Languages" />
 </a>
-
 <br/><br/>
 
 <!-- Streak stats — demolab instance is more reliable -->
