@@ -107,10 +107,7 @@ Developer me = {
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-
-<br/><br/>
+<div align="center">`
 
 <!-- Streak stats — demolab instance is more reliable -->
 <img src="https://streak-stats.demolab.com?user=LangerSword&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=ffffff&sideNums=ffffff" />
