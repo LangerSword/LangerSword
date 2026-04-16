@@ -1,0 +1,29 @@
+name: Generate 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # daily at 01:00 UTC (after snake job)
+  workflow_dispatch:
+
+jobs:
+  contrib:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D profile contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib/
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update 3d contribution chart"
+          git push
