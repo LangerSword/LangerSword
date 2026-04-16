@@ -1,45 +1,13 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     HEADER WAVE                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=LangerSword&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Lakshaya%20Sharma%20%E2%80%A2%20Builder%20%E2%80%A2%20Tinkerer%20%E2%80%A2%20Linux%20Nerd&descAlign=50&descAlignY=62&descSize=16" />
+<img width="100%" src="bleach-header.gif" alt="Bleach style anime artwork"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TYPING BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&multiline=false&random=false&width=550&height=50&lines=building+stuff+that+actually+works+%F0%9F%94%A7;systems+%7C+AI+%7C+automation+%7C+open+source;l+linux+is+not+just+an+OS%2C+it%27s+a+lifestyle+%F0%9F%90%A7)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ABOUT BLOCK                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-```c
-/* ======================================= */
-/*       lakshaya.h — who is this guy?     */
-/* ======================================= */
-
-typedef struct {
-    char  *name;
-    char  *alias;
-    char  *interests[4];
-    char  *os;
-    bool   currently_shipping;
-} Developer;
-
-Developer me = {
-    .name             = "Lakshaya Sharma",
-    .alias            = "LangerSword",
-    .interests        = { "systems programming", "AI/ML agents",
-                          "automation", "linux ricing" },
-    .os               = "Linux (btw)",
-    .currently_shipping = true,
-};
-```
+<!-- Minimal typing banner -->
+<p align="center">
+<em>building stuff that actually works • systems | AI | automation | open source</em>
+</p>
 
 <br/>
 
@@ -47,15 +15,12 @@ Developer me = {
 <!--                  ABOUT ME SECTION                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🧠 About Me
+### About
 
-> *"I break things to understand them — then rebuild them better."*
-
-- 🔭 Currently building **[gREV](https://github.com/LangerSword/gREV)** — an AI agent environment that auto-fixes code during CI/CD pipelines
-- 🦾 Also shipping a **real-time sign language ↔ speech translator** using computer vision
-- 🌱 Deep-diving into **Rust** and low-level systems programming
-- 🖥️ I live in terminals — my [dotfiles](https://github.com/LangerSword/dotfiles) are backed up because I've nuked my system enough times
-- ⚡ Once wired a DHT11 to a Raspberry Pi just to know if my room was too hot to code in (it was)
+- Building [gREV](https://github.com/LangerSword/gREV) — AI agent for CI/CD auto-fixes
+- Real-time sign language translator with computer vision
+- Deep-diving Rust & low-level systems
+- Terminal enthusiast — [dotfiles](https://github.com/LangerSword/dotfiles) backed up
 
 <br/>
 
@@ -130,6 +95,20 @@ Developer me = {
 
 <br/>
 
+### 🐍 Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lviffy/Lviffy/main/profile-3d-contrib/profile-gitblock.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lviffy/Lviffy/main/profile-3d-contrib/profile-gitblock.svg" />
+  <img alt="3d-contrib" src="https://raw.githubusercontent.com/Lviffy/Lviffy/main/profile-3d-contrib/profile-gitblock.svg" />
+</picture>
+
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               SNAKE CONTRIBUTION ANIMATION                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -162,6 +141,16 @@ Developer me = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/langersword)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LangerSword)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshayasharma695@gmail.com)
+
+</div>
+
+<br/>
+
+### 💖 Sponsor Me
+
+<div align="center">
+
+If you like my work and want to support me, you can [sponsor me on GitHub](https://github.com/sponsors/LangerSword)
 
 </div>
 
