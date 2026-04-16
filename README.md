@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     HEADER WAVE                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhydXh2eTQ1d2FtdnE3OXBwMWFnNnNqd3l2dTJmNmdxYTJ1cHZ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hzriiVlzAuRyvlp0u2/giphy.gif" alt="Bleach style anime artwork"/>
+<img width="100%" src="https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b" alt="Dark pixel art anime"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- Minimal typing banner -->
