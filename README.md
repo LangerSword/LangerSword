@@ -150,7 +150,7 @@
 
 <div align="center">
 
-If you like my work and want to support me, you can [sponsor me on GitHub](https://github.com/sponsors/LangerSword)
+[![Sponsor](https://img.shields.io/badge/Sponsor-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/LangerSword)
 
 </div>
 
