@@ -77,6 +77,14 @@
 <!-- Streak stats — demolab instance is more reliable -->
 <img src="https://streak-stats.demolab.com?user=LangerSword&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=ffffff&sideNums=ffffff" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3d-contrib" src="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-3d-contrib/profile-night-green.svg" />
+</picture>
+
 </div>
 
 <br/>
@@ -90,20 +98,6 @@
 <div align="center">
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LangerSword&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-### GitHub Statistics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3d-contrib" src="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-3d-contrib/profile-night-green.svg" />
-</picture>
 
 </div>
 
