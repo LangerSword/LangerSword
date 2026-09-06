@@ -49,7 +49,7 @@ security roots. editorial eye. accuracy > speed.
 <tr>
 <td><b>frontend / 3d</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=threejs,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=threejs,webgpu,html,css&theme=dark" />
 </td>
 </tr>
 </table>
@@ -72,14 +72,19 @@ security roots. editorial eye. accuracy > speed.
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     TROPHIES                               -->
+<!--                   GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🏆 trophies
+### 📊 stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LangerSword&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LangerSword&theme=tokyonight" />
+
+<br/>
+
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LangerSword&theme=tokyonight" />
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LangerSword&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
