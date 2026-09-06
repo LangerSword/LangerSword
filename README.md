@@ -100,27 +100,6 @@ security roots. editorial eye. accuracy > speed.
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--               SNAKE CONTRIBUTION ANIMATION                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### 🐍 snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LangerSword/LangerSword/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LangerSword/LangerSword/output/github-snake.svg" />
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/LangerSword/LangerSword/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONNECT                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -129,6 +108,7 @@ security roots. editorial eye. accuracy > speed.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/langersword)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/langersword)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LangerSword)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshayasharma695@gmail.com)
 
