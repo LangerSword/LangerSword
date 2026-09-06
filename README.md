@@ -72,18 +72,6 @@ security roots. editorial eye. accuracy > speed.
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   PROFILE CARD                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-card.svg" alt="profile card" width="680"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONNECT                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -95,5 +83,17 @@ security roots. editorial eye. accuracy > speed.
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/langersword)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LangerSword)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshayasharma695@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  SPACE SHOOTER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+![space shooter](https://raw.githubusercontent.com/rubberpirate/RubberPirate/main/assets/rubberpirate-space-shooter.gif)
 
 </div>
