@@ -1,46 +1,55 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     HEADER WAVE                           -->
+<!--                     HEADER                                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b" alt="Dark pixel art anime"/>
+<img width="100%" src="https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b" alt="header"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- Minimal typing banner -->
+<!--                      ABOUT                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <p align="center">
-<em>building stuff that actually works • systems | AI | automation | open source</em>
+<em>ai infrastructure · harnesses · agents · evals · graphs · inference engineering</em>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ABOUT ME SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+### what i do
 
-### About
+i build ai systems that reason — not just retrieve. the work lives in the seams: harnesses that hold models accountable, agents with bounded agency, evals that catch failure modes before they ship, inference engineering that makes it run where it matters.
 
-- Building [gREV](https://github.com/LangerSword/gREV) — AI agent for CI/CD auto-fixes
-- Real-time sign language translator with computer vision
-- Deep-diving Rust & low-level systems
-- Terminal enthusiast — [dotfiles](https://github.com/LangerSword/dotfiles) backed up
+security roots. editorial eye. accuracy > speed.
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                             -->
+<!--                    TECH STACK                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🛠️ Tech Stack
+### 🛠️ stack
 
 <table>
 <tr>
-<td><b>Languages</b></td>
+<td><b>languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=java,c,bash,js,html,css,rust,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,typescript,rust,bash,java&theme=dark" />
 </td>
 </tr>
 <tr>
-<td><b>Environment</b></td>
+<td><b>ai / ml</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+</td>
+</tr>
+<tr>
+<td><b>infra / ops</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,nginx&theme=dark" />
+</td>
+</tr>
+<tr>
+<td><b>frontend / 3d</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=threejs,webgpu,html,css&theme=dark" />
 </td>
 </tr>
 </table>
@@ -48,52 +57,39 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     PROJECTS                              -->
+<!--                     PROJECTS                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🚀 Projects
+### 🚀 selected work
 
-| 📦 Project | 📝 What it does | 🔧 Stack |
+| project | what it does | stack |
 |---|---|---|
-| [**gREV**](https://github.com/LangerSword/gREV) | OpenENV that trains AI agents to auto-fix code in CI/CD | `Python` `AI` `GitHub Actions` |
-| [**effective-daffodil**](https://github.com/LangerSword/effective-daffodil) | Real-time sign language ↔ spoken language via phone camera | `Python` `Computer Vision` |
-| [**dht11-raspberry-pi-monitor**](https://github.com/LangerSword/dht11-raspberry-pi-monitor) | Live temp & humidity dashboard from a Pi sensor | `HTML` `Python` `RPi` |
-| [**something-to-test**](https://github.com/LangerSword/something-to-test) | Rust playground — breaking things to understand them | `Rust` |
-| [**dotfiles**](https://github.com/LangerSword/dotfiles) | My sacred terminal configs — because I nuke my system too often | `Shell` |
+| [**razorpay-agent**](https://github.com/LangerSword/razorpay-agent) | conversational ai for payment flows, refunds, reconciliation | `Python` `Razorpay API` |
+| [**gREV**](https://github.com/LangerSword/gREV) | rl sandbox that trains agents to fix code during ci/cd | `Python` `Docker` `OpenEnv` |
+| [**NetSieve**](https://github.com/LangerSword/netsieve) | real-time nids with sha-256 chained forensic logger | `C` `Bare-metal` |
+| [**LastLook**](https://github.com/LangerSword/LastLook) | structured workspace for fellowship & hackathon applications | `TypeScript` `AI` |
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                            -->
-<!--   NOTE: Replace YOUR_TOKEN_HERE with a PAT that has       -->
-<!--   read:user scope. Or self-host the stats service.        -->
-<!--   Reliable alternative: use stats.kytta.dev              -->
+<!--                   GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 📊 GitHub Stats
+### 📊 stats
 
 <div align="center">
 
-<!-- Streak stats — demolab instance is more reliable -->
 <img src="https://streak-stats.demolab.com?user=LangerSword&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3d-contrib" src="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-3d-contrib/profile-night-green.svg" />
-</picture>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                           -->
+<!--                  ACTIVITY GRAPH                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 📈 Contribution Graph
+### 📈 activity
 
 <div align="center">
 
@@ -104,10 +100,10 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--               SNAKE CONTRIBUTION ANIMATION                -->
+<!--               SNAKE CONTRIBUTION ANIMATION                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🐍 Watch My Contributions Get Eaten
+### 🐍 snake
 
 <div align="center">
 
@@ -125,10 +121,10 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONNECT SECTION                          -->
+<!--                  CONNECT                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 📡 Find Me
+### 📡 find me
 
 <div align="center">
 
@@ -140,28 +136,8 @@
 
 <br/>
 
-### 💖 Sponsor Me
-
-<div align="center">
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/LangerSword)
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  VISITOR COUNTER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![visitors](https://komarev.com/ghpvc/?username=LangerSword&color=c084fc&style=flat-square&label=profile+views)
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   FOOTER WAVE                             -->
+<!--                   FOOTER                                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer" />
