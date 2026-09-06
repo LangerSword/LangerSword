@@ -49,7 +49,7 @@ security roots. editorial eye. accuracy > speed.
 <tr>
 <td><b>frontend / 3d</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=threejs,webgpu,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=threejs,html,css&theme=dark" />
 </td>
 </tr>
 </table>
