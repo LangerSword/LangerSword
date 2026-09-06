@@ -72,19 +72,14 @@ security roots. editorial eye. accuracy > speed.
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                             -->
+<!--                     TROPHIES                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 📊 stats
+### 🏆 trophies
 
 <div align="center">
 
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LangerSword&theme=tokyonight" />
-
-<br/>
-
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LangerSword&theme=tokyonight" />
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LangerSword&theme=tokyonight&utcOffset=5.5" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=LangerSword&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -104,11 +99,3 @@ security roots. editorial eye. accuracy > speed.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshayasharma695@gmail.com)
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   FOOTER                                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer" />
