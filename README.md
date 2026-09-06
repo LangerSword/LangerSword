@@ -8,7 +8,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-<em>ai infrastructure · harnesses · agents · evals · graphs · inference engineering</em>
+  <em>ai infrastructure · harnesses · agents · evals · graphs · inference engineering</em>
 </p>
 
 <br/>
@@ -79,21 +79,12 @@ security roots. editorial eye. accuracy > speed.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LangerSword&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LangerSword&theme=tokyonight" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### 📈 activity
-
-<div align="center">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LangerSword&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LangerSword&theme=tokyonight" />
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LangerSword&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
