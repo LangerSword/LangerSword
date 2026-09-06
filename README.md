@@ -72,19 +72,12 @@ security roots. editorial eye. accuracy > speed.
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                             -->
+<!--                   PROFILE CARD                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-### 📊 stats
 
 <div align="center">
 
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LangerSword&theme=tokyonight" />
-
-<br/>
-
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LangerSword&theme=tokyonight" />
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LangerSword&theme=tokyonight&utcOffset=5.5" />
+<img src="https://raw.githubusercontent.com/LangerSword/LangerSword/main/profile-card.svg" alt="profile card" width="680"/>
 
 </div>
 
